@@ -1,11 +1,7 @@
-# Multi-Functional-Calculator
-Here’s a clean and professional **README summary** for your GitHub profile, based on your code:
 
----
+# Multi-Functional Calculator ( in C PRogram ) 😎
 
-# Multi-Functional Calculator in C
-
-This C program is a **multi-purpose calculator** that offers a variety of useful conversions and calculations, all packed into one interactive menu-driven interface. It's perfect for beginners learning C and for users who want quick utilities for everyday tasks.
+This C program is a **multi-purpose calculator** that offers a variety of useful conversions and calculations, all packed into one interactive menu-driven interface. 
 
 ### ✨ Features:
 
@@ -30,4 +26,3 @@ This C program is a **multi-purpose calculator** that offers a variety of useful
 - Currency conversion rates are hardcoded and may not reflect current market rates.
 - This project is focused on basic C syntax, modular programming, and beginner-friendly utility apps.
 
----
