@@ -17,12 +17,9 @@ This C program is a **multi-purpose calculator** that offers a variety of useful
 - **Mass Calculator:** Convert grams to kilograms.
 
 ### 🧩 Program Structure:
-- **Menu-driven interface** that continuously runs until the user decides to exit.
-- **Numeric keypad display** for a fun visual feel.
-- **Input validation** for certain cases (like checking negative numbers or division by zero).
-- **Simple and modular design** with separate functions for each calculation type.
-
-### 📌 Notes:
-- Currency conversion rates are hardcoded and may not reflect current market rates.
-- This project is focused on basic C syntax, modular programming, and beginner-friendly utility apps.
-
+- A **menu-driven interface** that continuously runs until the user decides to exit.
+- A **numeric keypad display** for a fun visual feel.
+- **Input validation** for certain cases (like checking for negative numbers or division by zero).
+- A **simple and modular design** with separate functions for each calculation type.
+### Note 📝 :
+- Please note that the currency conversion rates are hardcoded and may not represent the current market rates. This project emphasizes basic C syntax, modular programming, and is designed for beginner-friendly utility applications.
